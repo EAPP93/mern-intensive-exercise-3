@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "626198ae61685406c8ab7741"
+  },
+  "name": "isInteger",
+  "Description": "Es entero",
+  "level": 4,
+  "user": "eapp",
+  "date": {
+    "$date": {
+      "$numberLong": "1650499200000"
+    }
+  },
+  "chaces": 3,
+  "valoration": 4
+}]

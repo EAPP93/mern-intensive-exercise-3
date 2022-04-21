@@ -14,7 +14,7 @@
 
 ---
 
-### **Globales**
+### **Produccion**
 
 ### *express*: este es un framework de node que sirve para crear una aplicacion de backend con node
 
@@ -28,7 +28,13 @@
 
 * CORS: es un mecanismo que permite que se puedan solicitar recursos restringidos en una página web desde un dominio diferente del dominio que sirvió el primer recurso
 
-### **Dev**
+### *swagger-jsdoc*: nos permite usar jsdoc para documentar
+
+### *swagger-ui-express*: nos permite usar jsdoc para documentar
+
+### *tsoa*: sirve para usar swagger con typescript y nos permite documentar atraves de "@" nuestro codigo
+
+### **Desarrollo**
 
 ### *TypeScript*: Dependencia necesaria para utilizar typescript el cual agrega tipos y otras funcionalidades a javascript
 

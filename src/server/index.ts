@@ -13,6 +13,9 @@ const server: Express = express()
 // define server to use "/api" and use rootRouter from 'index.ts' in routes
 server.use('/api', RootRouter)
 
+// static server
+server.use(express.static('public'))
+
 // security config
 server.use(cors())
 server.use(helmet())

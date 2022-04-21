@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "626142519a12ffaa936ed71e"
+  },
+  "name": "edwing",
+  "email": "empireapp@gmail.com",
+  "age": 29
+},{
+  "_id": {
+    "$oid": "626142a19a12ffaa936ed71f"
+  },
+  "name": "abraham",
+  "email": "w580sony@hotmail.com",
+  "age": 28
+}]
