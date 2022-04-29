@@ -1,4 +1,4 @@
-# Exercise 2 of the course intensive of MERN stack
+# Exercise 3 of the course intensive of MERN stack
 
 ## **Scripts**
 
